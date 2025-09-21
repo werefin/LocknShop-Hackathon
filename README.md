@@ -10,6 +10,11 @@
 - **Backend**: ASP.NET Core (C#) handling business logic and data access  
 - **Database**: SQLite (`locknshop-dev.db`) managed via Entity Framework Core
 
+**Project structure**:
+
+- `docs`: contains architecture and security documents  
+- `LocknShop`: full web application code
+
 ### Architecture
 
 **Frontend**:
