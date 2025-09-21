@@ -86,6 +86,4 @@
 
 **Tools**: MSTest/xUnit, Visual Studio Test Explorer, Playwright for .NET, Azure DevOps Test Plans, Application Insights
 
-**Note**: this solution was developed under **time and resource constraints** during the Hackathon at CRIF Bologna. It represents a functional, demonstrable product while remaining prepared for cloud evolution.
-
-
+**Note**: this solution was developed under **time and resource constraints** during the Hackathon at CRIF Bologna. It represents a functional, demonstrable product while remaining prepared for cloud.
