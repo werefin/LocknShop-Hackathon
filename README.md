@@ -1,7 +1,7 @@
 ## LocknShop - Cyberguard Hackathon 2025 (CRIF)
 
 **Team**: CRIF Cyberguard (team 1)  
-**Event**: Hackathon - CRIF (Bologna), June 2025 - July 2025
+**Event**: Cyberguard Hackathon - CRIF
 
 ### Overview
 **LocknShop** is a web e-commerce application built with **ASP.NET Core Razor Pages**. The application follows a classic three-tier architecture:
@@ -91,4 +91,4 @@
 
 **Tools**: MSTest/xUnit, Visual Studio Test Explorer, Playwright for .NET, Azure DevOps Test Plans, Application Insights
 
-**Note**: this solution was developed under **time and resource constraints** during the Hackathon at CRIF Bologna. It represents a functional, demonstrable product while remaining prepared for cloud.
+**Note**: this solution was developed under **time and resource constraints** during the Hackathon at CRIF. It represents a functional, demonstrable product while remaining prepared for cloud.
