@@ -1,4 +1,4 @@
-## LocknShop - Hackathon 2025 (CRIF)
+## LocknShop - Cyberguard Hackathon 2025 (CRIF)
 
 **Team**: CRIF Cyberguard (team 1)  
 **Event**: Hackathon - CRIF (Bologna), June 2025 - July 2025
