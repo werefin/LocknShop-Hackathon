@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = shopping_cart_russ
+build_property.RootNamespace = shopping_cart_russ
+build_property.ProjectDir = /home/david/Desktop/CyberGuard/LocknShop/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /home/david/Desktop/CyberGuard/LocknShop
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vY2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vY2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vY2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vY2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vY2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vcHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vcHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vcHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vcHJvZHVjdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/admin/products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvYWRtaW4vcHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2hlY2tvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/myorders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbXlvcmRlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvcHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvcHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Shared/_Toast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Ub2FzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/david/Desktop/CyberGuard/LocknShop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ys8apckorc

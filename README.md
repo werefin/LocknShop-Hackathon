@@ -1,1 +1,2 @@
-# LocknShop-Hackathon
+## LocknShop - Hackathon 2025 (CRIF)
+
